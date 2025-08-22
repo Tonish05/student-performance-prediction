@@ -21,7 +21,7 @@ The dataset contains the following features:
 * **Final\_Score** – Actual performance score.
 
 ---
-## 🔎 Workflow
+##  Workflow
 
 1. **Data Preprocessing**
 
@@ -94,12 +94,6 @@ streamlit run app.py
 
   * Accuracy: \~65%
   * Precision/Recall balanced across High, Medium, Low categories.
-
----
-
-## 📷 Screenshots
-
-(Add screenshots of your Streamlit app and visualizations here)
 
 ---
 
